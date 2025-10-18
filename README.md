@@ -24,7 +24,7 @@ Cover face - facial recognition is used to identify protestors.
 - Use Signal with a username, do not need to share your phone number to communicate
 - Use disappearing messages (set default for all new conversations)
 - iMessage gets stored in iCloud backup (accessible to law enforcement (LE) by subpoena/warrant)
-- Signal for organizers: https://micahflee.com/using-signal-groups-for-activism/
+- Signal for organizers: [https://micahflee.com/using-signal-groups-for-activism/](https://micahflee.com/using-signal-groups-for-activism/)
 
 ##### Voice Calls
 - Do NOT use regular voice calls - not secure
@@ -44,14 +44,14 @@ Cover face - facial recognition is used to identify protestors.
 
 #### Manage Online Data Retention and Privacy Settings
 - SMS, Email, iCloud, Google Drive, Dropbox, etc. are accessible to LE by subpoena/warrant
-- Turn off history settings https://myaccount.google.com/intro/privacycheckup
-- Apple users: Consider Advanced Data Protection https://support.apple.com/en-us/102651 
+- Turn off history settings [https://myaccount.google.com/intro/privacycheckup](https://myaccount.google.com/intro/privacycheckup)
+- Apple users: Consider Advanced Data Protection [https://support.apple.com/en-us/102651](https://support.apple.com/en-us/102651)
 - Review privacy settings in other accounts and delete unused data
 
 #### Secure Your Computers, Phones, Apps
 - Enable automatic updates and update immediately when new updates are released
 - Use a strong password for device login/unlock (not only digits)
-- High risk Apple users (e.g. organizers, media, civil society, people targeted by LE/government): Consider Lockdown Mode https://support.apple.com/en-us/105120 
+- High risk Apple users (e.g. organizers, media, civil society, people targeted by LE/government): Consider Lockdown Mode [https://support.apple.com/en-us/105120](https://support.apple.com/en-us/105120) 
 - Turn off when not in use - more secure when fully powered off and before first unlock
 - Apps track your location - delete unused apps
 - Enable full disk encryption such as FileVault to protect files on seized devices
