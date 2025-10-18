@@ -1,37 +1,5 @@
 # Protest Safe
 
-## Physical Safety
-
-### Gear to Bring
-- Umbrella or shield - protect from less lethal munitions shot by police
-- Z87, MIL-PRF-31013 or MIL-DTL-43511D rated eye protection
-- Face covering
-- Long sleeves, long pants, socks
-- Water
-- Helmet
-- Ear plugs
-
-### Pepper Spray and Tear Gas
-
-#### Stop Tear Gas
-- Use a leaf blower to blow smoke in a safe direction and allow others to pour water on or grab the canister with heavy gloves or tongs.
-- Pour water on tear gas canisters or place in a container of water and shake to extinguish.
-
-#### Prevention
-- Protect eyes from exposure with sealed impact rated goggles
-- Prevent inhalation with a mask
-- Cover skin with long sleeves, pants and socks
-- Do not wear contact lenses
-
-#### Treatment
-- Rinse eyes and mouth with water - milk is not needed
-- Rinse exposed skin as soon as possible
-- Use caution when showering - lean forward and wash off face for 15 min
-- Dab skin dry - do not wipe
-- Wash clothes separately
-
----
-
 ## Surveillance Safety
 
 ### Personal Safety
@@ -106,11 +74,40 @@ Cover face - facial recognition is used to identify protestors.
 
 ---
 
-## If You're Arrested
+## Physical Safety
 
-Say “I want my attorney and I choose to remain silent”. 
-Do not answer questions until you have a chance to talk to a lawyer. 
-(Search keywords: "Youtube Don't Talk to the Police")
+### Gear to Bring
+- Umbrella or shield - protect from less lethal munitions shot by police
+- Z87, MIL-PRF-31013 or MIL-DTL-43511D rated eye protection
+- Face covering
+- Long sleeves, long pants, socks
+- Water
+- Helmet
+- Ear plugs
+
+### Pepper Spray and Tear Gas
+
+#### Stop Tear Gas
+- Use a leaf blower to blow smoke in a safe direction and allow others to pour water on or grab the canister with heavy gloves or tongs.
+- Pour water on tear gas canisters or place in a container of water and shake to extinguish.
+
+#### Prevention
+- Protect eyes from exposure with sealed impact rated goggles
+- Prevent inhalation with a mask
+- Cover skin with long sleeves, pants and socks
+- Do not wear contact lenses
+
+#### Treatment
+- Rinse eyes and mouth with water - milk is not needed
+- Rinse exposed skin as soon as possible
+- Use caution when showering - lean forward and wash off face for 15 min
+- Dab skin dry - do not wipe
+- Wash clothes separately
+
+### If You're Arrested
+
+- Say “I want my attorney and I choose to remain silent”. 
+- Do not answer questions until you have a chance to talk to a lawyer. (Search keywords: "Youtube Don't Talk to the Police")
 
 ---
 
