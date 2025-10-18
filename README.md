@@ -50,15 +50,18 @@ Cover face - facial recognition is used to identify protestors.
 ### Digital Security and Privacy
 
 #### Secure Your Communications
+
 ##### Text Messaging
 - Do NOT use SMS - not secure
 - Use Signal with a username, do not need to share your phone number to communicate
 - Use disappearing messages (set default for all new conversations)
 - iMessage gets stored in iCloud backup (accessible to law enforcement (LE) by subpoena/warrant)
 - Signal for organizers: https://micahflee.com/using-signal-groups-for-activism/
+
 ##### Voice Calls
 - Do NOT use regular voice calls - not secure
 - Use Signal voice calls or FaceTime Audio
+
 ##### Email
 - Do NOT use email - not secure
 - Use Signal instead
@@ -85,7 +88,7 @@ Cover face - facial recognition is used to identify protestors.
 - Apps track your location - delete unused apps
 - Enable full disk encryption such as FileVault to protect files on seized devices
 
-#### High risk scenarios (e.g. civil disobedience, interacting with LE)
+#### High Risk Scenarios (e.g. Civil Disobedience, Interacting with LE)
 - If device is powered on, location history is accessible to LE by subpoena/warrant
 - Disable FaceID/TouchID/biometrics - LE can compel biometrics unlock
 - Apple users: quickly disable FaceID by pressing the side button 5 times quickly
@@ -94,7 +97,7 @@ Cover face - facial recognition is used to identify protestors.
 - Minimize the data on your device: consider history, recently deleted files/photos, consider full device reset to clean device
 - If your device is seized, consider it permanently compromised - discard and replace
 
-#### Think before you share
+#### Think Before You Share
 - LE monitors social media: subpoena/warrant can access any data given to service provider
 - Your contacts are your network, think before giving apps permission to access contacts
 - Pictures contain hidden embedded location data
@@ -105,8 +108,8 @@ Cover face - facial recognition is used to identify protestors.
 
 ## If You're Arrested
 
-Say “I want my attorney and I choose to remain silent”
-Do not answer questions until you have a chance to talk to a lawyer
+Say “I want my attorney and I choose to remain silent”. 
+Do not answer questions until you have a chance to talk to a lawyer. 
 (Search keywords: "Youtube Don't Talk to the Police")
 
 ---
